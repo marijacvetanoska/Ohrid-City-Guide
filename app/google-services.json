@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249196752827",
+    "project_id": "ohrid-city-guide",
+    "storage_bucket": "ohrid-city-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249196752827:android:784c52e46381806b24de9e",
+        "android_client_info": {
+          "package_name": "com.example.ohridcityguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249196752827-rm9pas8u98vpeebopihniemeiq4ion62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvet382RG8cjqBC1Ss_bymyauMvceonaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249196752827-rm9pas8u98vpeebopihniemeiq4ion62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

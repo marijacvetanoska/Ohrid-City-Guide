@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_explore"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="@string/nav_explore" />
+    <item
+        android:id="@+id/nav_sights"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_near_me_24"
+        android:title="@string/nav_sights" />
+    <item
+        android:id="@+id/nav_map"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/nav_map" />
+    <item
+        android:id="@+id/nav_weather"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_wb_sunny_24"
+        android:title="@string/nav_weather" />
+<!--    <item-->
+<!--        android:id="@+id/nav_saved"-->
+<!--        android:enabled="true"-->
+<!--        android:icon="@drawable/ic_baseline_favorite_24"-->
+<!--        android:title="@string/nav_saved" />-->
+</menu>
