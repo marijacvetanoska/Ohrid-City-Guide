@@ -19,7 +19,7 @@
     <ImageView
         android:id="@+id/blogPostImage"
         android:layout_width="383dp"
-        android:layout_height="159dp"
+        android:layout_height="180dp"
         android:layout_marginTop="5dp"
         android:adjustViewBounds="false"
         android:cropToPadding="false"
@@ -28,13 +28,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.105"
+        app:layout_constraintVertical_bias="0.097"
         tools:srcCompat="@tools:sample/backgrounds/scenic" />
 
     <TextView
         android:id="@+id/blogPostTitle"
         android:layout_width="382dp"
-        android:layout_height="77dp"
+        android:layout_height="60dp"
         android:layout_marginStart="10dp"
         android:layout_marginTop="16dp"
         android:text="Sample text here"
